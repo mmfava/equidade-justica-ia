@@ -1,0 +1,11 @@
+/.obsidian
+.obsidian 
+.codegpt
+.smtcmp_chat_histories
+.smtcmp_vector_db.tar.gz
+
+references
+
+
+# Ignore Smart Environment folder
+.smart-env
