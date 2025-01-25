@@ -33,8 +33,6 @@ updated: 2025-01-24T09:52
 |[**Scholar**](https://obsidian.md/plugins?id=scholar) [⬇️](obsidian://SP-install?id=scholar&enable=true)|[Shannon Shen](https://www.szj.io)|1.4.0|Streamline Research Workflow in Obsidian|
 |[**Enhancing Export**](https://obsidian.md/plugins?id=obsidian-enhancing-export) [⬇️](obsidian://SP-install?id=obsidian-enhancing-export&enable=true)|[YISH](https://github.com/mokeyish)|1.10.9|This is a enhancing export plugin for Obsidian....|
 |[**YTranscript**](https://obsidian.md/plugins?id=ytranscript) [⬇️](obsidian://SP-install?id=ytranscript&enable=true)|[Łukasz Strzępek](https://github.com/lstrzepek)|1.0.0|This is simple plugin to fetch transcription...|
-|[**Update Time**](https://obsidian.md/plugins?id=update-time) [⬇️](obsidian://SP-install?id=update-time&enable=true)|[Sébastien Dubois](https://dsebastien.net) [♡](https://www.buymeacoffee.com/dsebastien)|1.0.13|Automatically update front matter to include...|
-|[**Reference Generator**](https://obsidian.md/plugins?id=reference-generator) [⬇️](obsidian://SP-install?id=reference-generator&enable=true)|[Kadison McLellan](https://github.com/KadisonM) [♡](https://www.buymeacoffee.com/kadisonm)|1.0.1|Turn links into bibliographies in styles like...|
 
 
 <!-- ShareMyPlugin end -->

@@ -11,7 +11,7 @@ center: teste
 date: ""
 link: 
 created: 2025-01-20T23:39
-updated: 2025-01-25T00:10
+updated: 2025-01-25T12:26
 ---
 
 <!-- _class: first-slide -->
@@ -36,16 +36,20 @@ updated: 2025-01-25T00:10
 🔗 github: [/mmfava](https://github.com/mmfava)
 
 ---
-# <!----fit-->O que estamos chamando de IA 
+## O que é ==Inteligência Artificial==?
 
-A **Inteligência Artificial (IA)** é um termo abrangente que se refere a sistemas automatizados de tomada de decisão, capazes de executar tarefas que tradicionalmente exigiriam inteligência humana.
+IA é um **conjunto de sistemas automatizados** que tomam **decisões e executam tarefas** que antes exigiam **julgamento humano**.
 
+<small><small>[👁 | 🤖 | 🧠 | 🗣]</small></small>
+
+![bg right](figs/terminator.png)
 
 ---
-
 # O impacto das<br>==decisões algorítmicas==
 
-Embora aspirem imitar e automatizar o julgamento humano, a maioria dos algoritmos de IA são, na verdade, **modelos imperfeitos suscetíveis a erros e vieses**.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: center;"> <div style="padding-left: 60px;"> <img src="figs/terminator-not-kill.png" alt="Imagem de IA" style="width:900px;"> </div>
+  <div><p>✶ As IAs tentam imitar o julgamento humano.<br><br>✶ São imperfeitos, enviesados e, muitas vezes, injustos.</p></div>
+</div>
 
 
 ---
@@ -131,25 +135,25 @@ Embora aspirem imitar e automatizar o julgamento humano, a maioria dos algoritmo
 <small><small>DALL-E 3 (OpenAI) →🔗 https://chatgpt.com/share/6792b433-02b0-800e-8352-052e2fb2f531</small></small>
 
 ---
-### Reflexo da realidade?
-<br>
+## Reflexo da realidade?
 
+❌ ==NÃO!==
 
-==NÃO!== Os modelos são **enviesados**.
+Os modelos são **enviesados**! <br>
 
+<u>Tendências sistemáticas e distorcidas</u> nos resultados! <br>
+* Reforçam e amplificam estereótipos existentes.
+* Excluem ou exageram a representação de certos grupos.
+* Criam discriminações sistêmicas.
 
-✶ Reforçam e amplificam estereótipos existentes.
-✶ Sub ou sobre-representam certos grupos.
-✶ Podem levar a discriminações sistêmicas.
+<br><small><small>**Ver:** Cheong et al. (2024), Currie et al. (2024), Mandal et al. (2024), Wu et al. (2024),<br>Choudhry et al. (2023) e  Luccioni et al. (2023). </small></small>
 
-<br><small><small>**Ver:** Cheong et al. (2024), Currie et al. (2024), Mandal et al. (2024), Wu et al. (2024), Choudhry et al. (2023) e  Luccioni et al. (2023). </small></small>
 
 <!---- 
 
 Viés em Inteligência Artificial (IA) refere-se a padrões sistemáticos de erro em modelos de aprendizado de máquina que levam a previsões ou decisões injustas, distorcidas ou discriminatórias.
 
 -->
-
 
 ---
 
@@ -182,21 +186,22 @@ Viés em Inteligência Artificial (IA) refere-se a padrões sistemáticos de err
 ---
 #### Case 3: IA associando raça a reincidência criminal
 
-<small><small><small><mark>Old News!</mark><br>**ProPublica (23/05/2016)**: O artigo revela que o algoritmo COMPAS, usado no sistema judicial dos EUA para prever reincidência criminal, tem viés racial: ele superestima o risco de reincidência para pessoas negras (mais falsos positivos) e subestima para pessoas brancas (mais falsos negativos) ([🔗 link](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)).</small></small></small>
+<small><small><small><mark>Não é de hoje!</mark><br>**ProPublica (23/05/2016)**: O artigo revela que o algoritmo COMPAS, usado no sistema judicial dos EUA para prever reincidência criminal, tem viés racial: ele superestima o risco de reincidência para pessoas negras (mais falsos positivos) e subestima para pessoas brancas (mais falsos negativos) ([🔗 link](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)).</small></small></small>
 <br>
 
 ![bg right width:900px](figs/alto-risco-rei-crime.png)
 
 ---
-### Reflexo da sociedade?
+## Reflexo da sociedade?
 
-==SIM!== 🏘️ ⇢ 👶
+✅ ==SIM!== 
 
-As IA apresentam "**posicionalidade**"!
+As IA carregam nossa **visão de mundo**: 🏘️ ⇢ 👶!<br><br>
 
-✶ Posicionalidade é a forma como nossos **contextos sociais e políticos moldam nossa percepção do mundo**.
 
-✶ Na IA, isso significa que **preconceitos e perspectivas humanas influenciam os sistemas de aprendizado de máquina**, pois refletem as escolhas feitas durante seu desenvolvimento.
+✶ **Posicionalidade**: nossa cultura e sociedade influenciam nossa percepção.
+
+✶ **Preconceitos e perspectivas humanas influenciam os sistemas de IA!**
 
 ---
 
@@ -205,7 +210,7 @@ As IA apresentam "**posicionalidade**"!
 <center><small><small><b>Ref:</b> Leslie et al. (2021)</small></small></center>
 
 ---
-#### A IA amplifica vieses humanos
+### A IA amplifica vieses humanos
 
 <small><small><b>Glickman and Sharot (2024)</b></small></small>
 * IA reforça viés e influencia humanos a adotá-lo.
@@ -214,6 +219,14 @@ As IA apresentam "**posicionalidade**"!
 * IA imparciais podem melhorar julgamentos humanos.
 ![bg right width:900px](figs/muda-crenca.png)
 
+---
+
+# Mas o que é ser justo?
+
+
+![bg](https://github.com/mmfava/my-social-media-content/blob/feature/slide-template/theme/slides-design/3.png?raw=true)
+
+<!-- _class: first-slide -->
 
 ---
 # Mas o que é ser <u>justo</u>?
@@ -225,19 +238,9 @@ Há apenas um leito disponível na UTI e dois pacientes em estado grave:
 [1] 🧒 **Criança de 8 anos** - alta chance de recuperação.
 [2] 🤰 **Mulher grávida de 32 anos** - sua vida não garante a do bebê.
 
-<br>==Quem deve receber o leito?==
+<br>🤔 ==Quem deve ser salvo?==
 
----
-# Mas o que é ser <u>justo</u>?
 
-▶ **Responda:** 
-
-Há apenas um leito disponível na UTI e dois pacientes em estado grave:
-
-[1] 🧔‍♂️ **Homem de 40 anos** - baixa probabilidade de sobrevivência.
-[2] 👵 **Mulher idosa de 75 anos** - probabilidade relativamente alta de sobrevivência.
-
-<br>==Quem deve receber o leito?==
 
 ---
 ## Definição de justiça 👩‍⚖️
@@ -253,22 +256,28 @@ Há apenas um leito disponível na UTI e dois pacientes em estado grave:
 # Equidade ≠ Igualdade
 
 
-A equidade considera **diferenças individuais e estruturais**, garantindo que **todos tenham acesso às mesmas oportunidades**, mesmo que isso signifique **tratamentos diferenciados**.
+A equidade considera **diferenças individuais e estruturais**, garantindo que **todos tenham acesso às mesmas oportunidades**, mesmo que isso signifique **tratamentos diferenciados**. <br>
 
-#### Conceito bastante discutido, mas que também não é fácil
+#### ⚖️ Tratamentos diferentes podem ser necessário para garantir justiça! <br>
 
 ---
+# Construindo um sistema "justo"
 
-# Construindo um sistema justo
+<small>(ver: <b>AI Blindspots</b> | MIT Media Lab)</small>
 
-_"Viés algorítmico não é um problema meramente técnico, mas social e ético. Para mitigá-lo, devemos agir desde a coleta de dados até a governança do sistema."_
+![bg](https://github.com/mmfava/my-social-media-content/blob/feature/slide-template/theme/slides-design/3.png?raw=true)
 
-— **Cathy O’Neil**, autora de _Weapons of Math Destruction_
+<!-- _class: first-slide -->
 
 ---
 ### 1️⃣ Propósito
+<br>
 
-IA deve ter um **objetivo claro** e ser a melhor solução para o problema. Sem um propósito bem definido, pode gerar impactos negativos e desperdício de recursos.
+✶ Propósito é o norte!
+✶ IA é a melhor solução?
+ ✶ Engajamento comunidade
+
+ <small><small><small> ⚠️  Sem propósito, pode gerar impactos negativos e desperdício de recursos.</small></small></small>
 
 ![bg right](figs/surto-ebola.png)
 
@@ -278,12 +287,16 @@ IA deve ter um **objetivo claro** e ser a melhor solução para o problema. Sem 
 Pesquisadores usaram dados de mobilidade para prever surtos, mas o Ebola se espalha por contato direto. O foco deveria ter sido <b>redes de contato entre infectados</b>.
 </div>
 
-
 ---
 
 ### 2️⃣ Dados
+<br>
 
-Dados enviesados reforçam desigualdades. **É necessário garantir a diversidade com qualidade**. Auditorias e engajamento de especialistas são consideradas boas práticas!
+==Vieses perpetuam desigualdade==
+✶ Especialistas e comunidade
+✶ Diversidade e qualidade
+✶ Exploratória
+✶ <u>Documentação</u>
 
 <br>
 <div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;">
@@ -295,10 +308,14 @@ Dados enviesados reforçam desigualdades. **É necessário garantir a diversidad
 ---
 
 ### 3️⃣ Abusabilidade
+<br>
 
-Os desenvolvedores de IA precisam antecipar **vulnerabilidades e cenários de uso indevido**. 
-
-Algoritmos podem ser **sequestrados e transformados em ferramentas para fins maliciosos**, como manipulação, vigilância e desinformação.
+Uso **malicioso**!
+<small><small>⚠️  Deepfakes, manipulação e desinformação</small></small> <br>
+✶ Antecipar vulnerabilidades
+✶ Criar cenário hipotéticos 
+✶ Processos de mitigação
+✶ Processos de correção
 
 <br>
 <div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;">
@@ -312,10 +329,15 @@ Algoritmos podem ser **sequestrados e transformados em ferramentas para fins mal
 ---
 ### 4️⃣ Privacidade
 
-Os sistemas de IA podem comprometer a **privacidade** dos usuários ao armazenar dados sensíveis, sujeitos a vazamentos e ataques. 
+IA pode **comprometer a privacidade dos usuários**.
 
-Para mitigar riscos, é essencial aplicar **segurança desde o design** e garantir o **controle do usuário** sobre seus dados.
+✶ Segurança desde o design
+✶ Avaliação de risco de privacidade
+✶ Consentimento dos usuários 
+✶ Aprimoramento de privacidade
+ <small><small><small> 🧰 Aprendizado federado, privacidade diferencial, desidentificação e enclaves seguros de dados com base no nível de risco</small></small></small>
 
+ 
 <br>
 <div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;">
 <strong>Época Negócios (16/01/2025) - </strong>Brasileiros vendem registro da íris por R$600 para projeto Worldcoin de Sam Altam, CEO da OpenAI
@@ -328,9 +350,11 @@ Para mitigar riscos, é essencial aplicar **segurança desde o design** e garant
 
 ### 5️⃣ Proxy
 
-Algoritmos podem discriminar **indiretamente** ao usar variáveis correlacionadas a **atributos protegidos**, como raça ou gênero.
-
-É de extrema importância a consulta a especialistas no assunto! <br>
+<br>**Viés oculto em variáveis correlacionadas**!
+<small><small><small>⚠️ Um modelo pode **parecer neutro**, mas ainda refletir desigualdades.</small></small></small>
+✶ Consultar especialistas 
+✶ Remover features correlacionadas
+✶ Testes
 
 <div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;"> <strong>Ribeiro-Dantas et al. (2023) - </strong> O estado civil solteira foi indevidamente apontado como fator de risco para um tipo de câncer de mama. Os autores demonstram que a variável é um proxy de fatores socioeconômicos, como acesso ao diagnóstico médico adequado. </div>
 
@@ -339,37 +363,23 @@ Algoritmos podem discriminar **indiretamente** ao usar variáveis correlacionada
 ---
 ### 6️⃣ Explicabilidade
 
-Quem projeta e implementa sistemas algorítmicos tem a **responsabilidade de explicar decisões críticas** que impactam o bem-estar das pessoas.
+<br>⚠️⚠️⚠️⚠️⚠️
+Quem projeta e implementa sistemas algorítmicos tem a ==responsabilidade de explicar decisões críticas== que impactam o bem-estar das pessoas!
+⚠️⚠️⚠️⚠️⚠️<br><br>
 
-<div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;"> O usuário quer entender o motivo dos resultados, o motivo das falhas e quando e o quanto ele pode confiar na IA!</div>
+<div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;">Usuários precisam entender como e por que um algoritmo tomou uma decisão. Confiança só existe quando há explicabilidade.</div>
 
 ![bg right](figs/black-box.png)
 
 ---
 
-#### Interpretabilidade
-
-Refere-se à capacidade de entender como um modelo de IA funciona e chega às suas conclusões.<br>
-**Um modelo interpretável permite rastrear o impacto de cada entrada na saída.**
-<br><small><small>[🔗 Link da figura](https://docs.aws.amazon.com/whitepapers/latest/model-explainability-aws-ai-ml/interpretability-versus-explainability.html)</small></small>
-
-![bg left width:1000px](figs/interpretabilidade.png)
-
-
----
-#### Explicabilidade
-
-Conjunto de processos e métodos que permite que usuários humanos **compreendam e confiem nos resultados e saídas** criados por algoritmos de aprendizado de máquina.
-<br><small><small>[🔗 Link da figura](https://media.geeksforgeeks.org/wp-content/uploads/20231201153509/Explainable-AI-Concept-1-660.png)</small></small>
-
-![bg left width:900px](figs/shap-local-global.png)
-
-
----
-
 ### 7️⃣ Otimização
+<br>
 
-Definir métricas de sucesso para IA envolve **compensações e impactos colaterais**. É essencial equilibrar **desempenho e equidade**, minimizando riscos para populações vulneráveis.
+<small>==Desempenho sem equidade não é suficiente==!</small>
+✶ *Trade-off* entre acurácia e equidade
+✶ KPIs mensuráveis 
+✶ Monitoramento de métricas
 
 <div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;"> <strong>Shanklin et al. (2022) </strong> - O estudo mostra como algoritmos de IA podem perpetuar desigualdades raciais e propõe um método para equilibrar precisão e equidade, evitando discriminação sem comprometer a eficiência. </div>
 
@@ -379,9 +389,12 @@ Definir métricas de sucesso para IA envolve **compensações e impactos colater
 
 ### 8️⃣ Generalização
 
-Entre o desenvolvimento e a implementação de um sistema de IA, **o mundo – e os usuários – podem mudar**, tornando o contexto original inadequado e levando a falhas inesperadas.  
-
-Planos de retreino e descontinuidade são necessários! 
+==IA precisa se adaptar ao mundo real!==
+✶ Mudanças nos dados
+✶ Processo de revisão humana 
+✶ Alinhar expectativas 
+✶ Metrificação 
+✶ Planos de retreino e descontinuidade
 
 ![bg right](figs/blink.png)  
 
@@ -395,34 +408,50 @@ Planos de retreino e descontinuidade são necessários!
 
 ### 9️⃣ Monitoramento
 
-Decisões algorítmicas devem ser **passíveis de revisão**, garantindo que indivíduos possam **questioná-las e corrigi-las**. 
 
-Além disso, **monitoramento contínuo e transparência** são essenciais para evitar abusos e garantir responsabilidade no uso da IA.
+Decisões algorítmicas devem ser **passíveis de revisão** e **correção**
+✶ Mecanismos de transparência 
+✶ Comunidade
+✶ Documentação / Guia!
+✶ Dashboards
+✶ Regulamentação
 
 ![bg right](figs/monitorament.png)
 
+---
+# Reflexões finais
+
+![bg](https://github.com/mmfava/my-social-media-content/blob/feature/slide-template/theme/slides-design/3.png?raw=true)
+
+<!-- _class: first-slide -->
+
 
 ---
-**Reflexões finais**
+# Todos os modelos<br>==estão errados==
 
-# A IA ==não é neutra== – ela reflete as escolhas de quem a constrói e os dados que a alimentam!
+O importante é reconhecer suas limitações e mitigá-las.
 
----
-**Reflexões finais**
-
-#  Viés algorítmico não é apenas um problema técnico,<br>mas ==social e ético==. 
-
-A mitigação exige um olhar interdisciplinar.
 
 ---
-**Reflexões finais**
+# A IA ==não é neutra==
 
-# Precisamos equilibrar ==acurácia e equidade==, garantindo que sistemas de IA sejam justos e transparentes.
+Ela carrega os vieses e intenções de quem a desenvolve e dos dados que a alimentam.  
+O uso consciente exige entender essas influências.
 
 ---
-**Reflexões finais**
+#  O viés algorítmico vai<br>==além do técnico==!
 
-# A supervisão contínua e o direito à contestação são fundamentais para que a IA beneficie a sociedade sem reforçar desigualdades!
+É um problema social e ético que exige soluções interdisciplinares e centradas no humano.
+
+---
+# Acurácia sem equidade é ==insuficiente==.
+
+Precisamos construir IA que seja não apenas eficiente, mas também justa.
+
+---
+# IA justa requer ==monitoramento== e ==contestação==.
+
+Usuários devem ter o direito de questionar decisões algorítmicas e exigir transparência.
 
 
 ---
@@ -442,9 +471,10 @@ A mitigação exige um olhar interdisciplinar.
 ### Referências
 7. Luccioni, A. S. et al. (2023). _Stable Bias: Analyzing Societal Representations in Diffusion Models_. [Online]. Available at: https://doi.org/10.48550/arXiv.2303.11408 [Accessed 22 January 2025].
 8. Mandal, A., Leavy, S. and Little, S. (2024). _Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models_. [Online]. Available at: https://doi.org/10.48550/arXiv.2410.07884 [Accessed 24 January 2025].
-9. Ribeiro-Dantas, M. da C. et al. (2023). _Learning interpretable causal networks from very large datasets, application to 400,000 medical records of breast cancer patients_. [Online]. Available at: https://doi.org/10.48550/arXiv.2303.06423 [Accessed 24 January 2025].
-10. Shanklin, R. et al. (2022). _Ethical Redress of Racial Inequities in AI: Lessons from Decoupling Machine Learning from Optimization in Medical Appointment Scheduling_. [Online]. Available at: https://doi.org/10.1007/s13347-022-00590-8 [Accessed 24 January 2025].
-11. Wu, Y., Nakashima, Y. and Garcia, N. (2024). _Gender Bias Evaluation in Text-to-image Generation: A Survey_. [Online]. Available at: https://doi.org/10.48550/arXiv.2408.11358 [Accessed 24 January 2025].
+9. MIT Media Lab (2021). _AI Blindspot_. Disponível em: [https://aiblindspot.media.mit.edu/index.html](https://aiblindspot.media.mit.edu/index.html) [Acesso em: 25 janeiro 2025].
+10. Ribeiro-Dantas, M. da C. et al. (2023). _Learning interpretable causal networks from very large datasets, application to 400,000 medical records of breast cancer patients_. [Online]. Available at: https://doi.org/10.48550/arXiv.2303.06423 [Accessed 24 January 2025].
+11. Shanklin, R. et al. (2022). _Ethical Redress of Racial Inequities in AI: Lessons from Decoupling Machine Learning from Optimization in Medical Appointment Scheduling_. [Online]. Available at: https://doi.org/10.1007/s13347-022-00590-8 [Accessed 24 January 2025].
+12. Wu, Y., Nakashima, Y. and Garcia, N. (2024). _Gender Bias Evaluation in Text-to-image Generation: A Survey_. [Online]. Available at: https://doi.org/10.48550/arXiv.2408.11358 [Accessed 24 January 2025].
 
 
 ---

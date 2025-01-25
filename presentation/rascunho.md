@@ -1,6 +1,6 @@
 ---
 created: 2025-01-22T16:00
-updated: 2025-01-24T16:28
+updated: 2025-01-25T10:20
 ---
 
 ## Start
@@ -98,4 +98,24 @@ Traduzimos conceitos-chave sobre essa questão em uma série de cenários ilustr
 # O que é justiça 
 # Alcançando justiça em IA
 1. Que tipo de IA nós estamos criando? 
-2. 
+
+
+
+---
+
+#### Interpretabilidade
+
+Refere-se à capacidade de entender como um modelo de IA funciona e chega às suas conclusões.<br>
+**Um modelo interpretável permite rastrear o impacto de cada entrada na saída.**
+<br><small><small>[🔗 Link da figura](https://docs.aws.amazon.com/whitepapers/latest/model-explainability-aws-ai-ml/interpretability-versus-explainability.html)</small></small>
+
+![bg left width:1000px](figs/interpretabilidade.png)
+
+
+---
+#### Explicabilidade
+
+Conjunto de processos e métodos que permite que usuários humanos **compreendam e confiem nos resultados e saídas** criados por algoritmos de aprendizado de máquina.
+<br><small><small>[🔗 Link da figura](https://media.geeksforgeeks.org/wp-content/uploads/20231201153509/Explainable-AI-Concept-1-660.png)</small></small>
+
+![bg left width:900px](figs/shap-local-global.png)
