@@ -1,6 +1,6 @@
 ---
 created: 2025-01-22T16:00
-updated: 2025-01-22T16:36
+updated: 2025-01-24T16:28
 ---
 
 ## Start
@@ -52,3 +52,50 @@ Traduzimos conceitos-chave sobre essa questão em uma série de cenários ilustr
 
 
 
+
+
+---
+
+#### Exemplo 1
+
+![bg right width:900px](figs/vereadora-discriminacao-ia.png)
+
+<small><small><small>**G1 (26/10/2023)** - Deputada acusa robô que faz desenhos ao estilo Pixar de racismo após tecnologia gerar imagem de mulher negra armada (🔗[link](https://g1.globo.com/tecnologia/noticia/2023/10/26/deputada-do-rj-diz-que-robo-que-faz-desenhos-ao-estilo-pixar-entregou-imagem-de-mulher-negra-com-arma-na-mao-ao-receber-pedido-de-personagem-em-favela.ghtml)).</small></small></small>
+<br>
+
+<div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;">
+<strong>Prompt no <em>Bing Chat</em> da Microsoft (DALL-E):</strong><br>
+"Uma mulher negra, de cabelos afro, com roupas de estampa africana num cenário de favela".
+</div>
+
+
+---
+#### Exemplo 2
+
+![bg left width:700px](figs/Imagem%20do%20WhatsApp%20de%202025-01-24%20à(s)%2012.33.08_f345ba01.jpg)
+
+<small><small><small>**Grupo LLM whatsapp (28/10/2024)** - Colega pede para IA da empresa Meta gerar imagem de uma pessoa que "efetua atos errados na sociedade" e o resultado é um homem negro.</small></small></small>
+<br>
+
+<div style="border: 1px solid #ccc; padding: 20px; padding-left:60px; font-size: 0.7em; background-color: #f8f8f8;">
+<strong>Prompt no <em>Meta AI</em> no Whatsapp:</strong><br>
+"@Meta AI crie a imagem de uma pessoa que efetua atos errados na sociedade".
+</div>
+
+---
+
+
+--------------
+
+# O que estamos chamando de IA
+
+# O impacto das decisões algorítmicas 
+
+1. Experimentos para exemplificar o que é e a existência de viés em modelos
+2. Origem de viéses
+3. Retroalimentação de vieses em sistemas de IA
+
+# O que é justiça 
+# Alcançando justiça em IA
+1. Que tipo de IA nós estamos criando? 
+2. 

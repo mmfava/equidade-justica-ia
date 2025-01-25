@@ -1,6 +1,6 @@
 ---
 created: 2025-01-22T18:26
-updated: 2025-01-22T19:12
+updated: 2025-01-24T10:39
 group: papers
 title: "Stable Bias: Evaluating Societal Representations in Diffusion Models"
 authors:
@@ -157,11 +157,7 @@ Os modelos de geração de imagens são amplamente utilizados em diversas aplica
     
     - As ferramentas desenvolvidas no estudo, como _Diffusion Bias Explorer_ e _Average Face Comparison Tool_, podem ser usadas por desenvolvedores e reguladores para monitorar vieses em novos modelos de IA.
 
- -------
 
-Aqui está a tradução do texto para o português:
-
----
 
 ### **Viés Estável: Avaliando Representações Sociais em Modelos de Difusão**
 
@@ -276,6 +272,3 @@ Os pesquisadores propõem uma nova abordagem para medir vieses nos modelos TTI. 
 - **Evolução de ferramentas de IA**: Novas técnicas devem ser desenvolvidas para tornar os modelos mais representativos.
 - **Padrões éticos**: O estudo destaca a necessidade de diretrizes para que a IA seja mais **justa e inclusiva**.
 
----
-
-Se precisar de mais detalhes ou ajustes, me avise! 😊

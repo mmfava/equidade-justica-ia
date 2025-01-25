@@ -1,6 +1,6 @@
 ---
 created: 2025-01-20T23:38
-updated: 2025-01-22T13:20
+updated: 2025-01-24T09:52
 ---
 <!-- ShareMyPlugin begin -->
 
@@ -22,8 +22,7 @@ updated: 2025-01-22T13:20
 |[**Sheet Plus**](https://obsidian.md/plugins?id=sheet-plus) [⬇️](obsidian://SP-install?id=sheet-plus&enable=true)|[ljcoder](https://github.com/ljcoder2015) [♡](https://ko-fi.com/ljcoder)|1.8.0|Create Excel-like spreadsheets and easily...|
 |[**Paste image rename**](https://obsidian.md/plugins?id=obsidian-paste-image-rename) [⬇️](obsidian://SP-install?id=obsidian-paste-image-rename&enable=true)|[Reorx](https://github.com/reorx)|1.6.1|Rename pasted images and all the other attchments ...|
 |[**Smart Composer**](https://obsidian.md/plugins?id=smart-composer) [⬇️](obsidian://SP-install?id=smart-composer&enable=true)|[Heesu Suh](https://github.com/glowingjade) [♡](https://buymeacoffee.com/glowingjade)|1.0.12|AI chat with note context, smart writing assistanc...|
-|[**Consistent Attachments and Links**](https://obsidian.md/plugins?id=consistent-attachments-and-links) [⬇️](obsidian://SP-install?id=consistent-attachments-and-links&enable=true)|[Dmitry Savosh](https://github.com/dy-sh/) [♡](https://www.buymeacoffee.com/mnaoumov)|3.24.1|This plugin ensures the consistency of attachments...|
-|[**Update Time**](https://obsidian.md/plugins?id=update-time) [⬇️](obsidian://SP-install?id=update-time&enable=true)|[Sébastien Dubois](https://dsebastien.net) [♡](https://www.buymeacoffee.com/dsebastien)|1.0.13|Automatically update front matter to include...|
+|[**Consistent Attachments and Links**](https://obsidian.md/plugins?id=consistent-attachments-and-links) [⬇️](obsidian://SP-install?id=consistent-attachments-and-links&enable=true)|[Dmitry Savosh](https://github.com/dy-sh/) [♡](https://www.buymeacoffee.com/mnaoumov)|3.24.7|This plugin ensures the consistency of attachments...|
 |[**Dataview Serializer**](https://obsidian.md/plugins?id=dataview-serializer) [⬇️](obsidian://SP-install?id=dataview-serializer&enable=true)|[Sébastien Dubois](https://dsebastien.net) [♡](https://www.buymeacoffee.com/dsebastien)|1.5.1|Serialize Dataview queries to Markdown, and...|
 |[**vConsole**](https://obsidian.md/plugins?id=vconsole) [⬇️](obsidian://SP-install?id=vconsole&enable=true)|[Zhou Hua](https://zhouhua.site)|1.0.2|Integrate vConsole for developers to facilitate...|
 |[**Mermaid Tools**](https://obsidian.md/plugins?id=mermaid-tools) [⬇️](obsidian://SP-install?id=mermaid-tools&enable=true)|[dartungar](https://dartungar.com) [♡](https://www.paypal.com/paypalme/dartungar)|1.1.3|Improved Mermaid.js experience for Obsidian:...|
@@ -33,6 +32,9 @@ updated: 2025-01-22T13:20
 |[**Emoji Magic**](https://obsidian.md/plugins?id=emoji-magic) [⬇️](obsidian://SP-install?id=emoji-magic&enable=true)|[simplgy](https://github.com/simplgy)|0.2.2|Easily add emoji, with a powerful keyword...|
 |[**Scholar**](https://obsidian.md/plugins?id=scholar) [⬇️](obsidian://SP-install?id=scholar&enable=true)|[Shannon Shen](https://www.szj.io)|1.4.0|Streamline Research Workflow in Obsidian|
 |[**Enhancing Export**](https://obsidian.md/plugins?id=obsidian-enhancing-export) [⬇️](obsidian://SP-install?id=obsidian-enhancing-export&enable=true)|[YISH](https://github.com/mokeyish)|1.10.9|This is a enhancing export plugin for Obsidian....|
+|[**YTranscript**](https://obsidian.md/plugins?id=ytranscript) [⬇️](obsidian://SP-install?id=ytranscript&enable=true)|[Łukasz Strzępek](https://github.com/lstrzepek)|1.0.0|This is simple plugin to fetch transcription...|
+|[**Update Time**](https://obsidian.md/plugins?id=update-time) [⬇️](obsidian://SP-install?id=update-time&enable=true)|[Sébastien Dubois](https://dsebastien.net) [♡](https://www.buymeacoffee.com/dsebastien)|1.0.13|Automatically update front matter to include...|
+|[**Reference Generator**](https://obsidian.md/plugins?id=reference-generator) [⬇️](obsidian://SP-install?id=reference-generator&enable=true)|[Kadison McLellan](https://github.com/KadisonM) [♡](https://www.buymeacoffee.com/kadisonm)|1.0.1|Turn links into bibliographies in styles like...|
 
 
 <!-- ShareMyPlugin end -->
