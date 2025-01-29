@@ -32,7 +32,6 @@ updated: 2025-01-24T09:52
 |[**Emoji Magic**](https://obsidian.md/plugins?id=emoji-magic) [⬇️](obsidian://SP-install?id=emoji-magic&enable=true)|[simplgy](https://github.com/simplgy)|0.2.2|Easily add emoji, with a powerful keyword...|
 |[**Scholar**](https://obsidian.md/plugins?id=scholar) [⬇️](obsidian://SP-install?id=scholar&enable=true)|[Shannon Shen](https://www.szj.io)|1.4.0|Streamline Research Workflow in Obsidian|
 |[**Enhancing Export**](https://obsidian.md/plugins?id=obsidian-enhancing-export) [⬇️](obsidian://SP-install?id=obsidian-enhancing-export&enable=true)|[YISH](https://github.com/mokeyish)|1.10.9|This is a enhancing export plugin for Obsidian....|
-|[**YTranscript**](https://obsidian.md/plugins?id=ytranscript) [⬇️](obsidian://SP-install?id=ytranscript&enable=true)|[Łukasz Strzępek](https://github.com/lstrzepek)|1.0.0|This is simple plugin to fetch transcription...|
 
 
 <!-- ShareMyPlugin end -->
